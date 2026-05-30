@@ -1,11 +1,8 @@
 ## Yoo 💻
 Hi, I’m Uriel 👋
 
-I’m a high school student mainly focused on backend development, with a bit of frontend experience as well.
-
-Right now, I’m learning Django more deeply because I want to understand what’s actually happening under the hood.
-
-I have an intermediate level in Python and SQL, and I’m still improving my CSS skills to build more visually interesting websites.
+Python backend developer with knowlegde of frameworks like Django Rest and FastAPI.
+Profficient in python and learning java and javascript at the moment. 
 
 # My backend and tools I use. 
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
